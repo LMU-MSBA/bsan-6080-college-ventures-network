@@ -101,10 +101,10 @@ Major Benefit: More visibility, greater promotion of CVN events.
 
 
 # Determine Data Mining Goals
-Data Mining Goals are directly related to our main business goal
-Business Goal: Assess the effectiveness of Facebook ads for increasing clickthrough rates and event RSVPs 
-Data Mining Goal translation: accurately track and visualize key performance indicators such as clickthrough funnel rate, average engagement, and number of event RSVPs
-Determine Data MIning Success Criteria
+Data Mining Goals are directly related to our main business goal <br />
+Business Goal: Assess the effectiveness of Facebook ads for increasing clickthrough rates and event RSVPs <br />
+Data Mining Goal translation: accurately track and visualize key performance indicators such as clickthrough funnel rate, average engagement, and number of event RSVPs<br />
+Determine Data Mining Success Criteria<br />
 We will be successful with this data mining goal if we are able to produce a user friendly dashboard which can be transferred over to the College Ventures Network social media team
 
 # Produce Project Plan
