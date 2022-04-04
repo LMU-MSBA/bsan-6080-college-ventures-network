@@ -36,64 +36,81 @@ A successful project will let us know whether ads are truly useful in obtaining 
 
 
 # Assess Situation
-Assess the Situation: Fact-finding about all of the resources, constraints, assumptions and other factors to be considered in the determining of the data analysis goal
-Inventory of resources
-Personnel
- Global network of 50+ student-run organizations
-11 members in the Management Team at CVN
-316 Followers CVN
+## Assess the Situation: Fact-finding about all of the resources, constraints, assumptions and other factors to be considered in the determining of the data analysis goal
+
+### Inventory of resources
+
+### Personnel
+Global network of 50+ student-run organizations\
+11 members in the Management Team at CVN\
+316 Followers CVN\
 238 Followed by CVN
-Data
+
+### Data
 Analytics-ready data available from Twitter platform
-Hardware
-Computers, Phones
+
+### Hardware
+Computers, Phones\
 Software
-Application Software: Twitter, LinkedIn
-Requirements, assumptions and constraints
-Requirements of the project
-Access to Twitter, LinkedIn Accounts
-Permission to post ad campaigns
-Decide whether paid or organic ads are most effective for our client
-Schedule of completion
+
+### Application Software: 
+Twitter, LinkedIn
+
+## Requirements, assumptions and constraints
+
+### Requirements of the project
+Access to Twitter, LinkedIn Accounts\
+Permission to post ad campaigns\
+Decide whether paid or organic ads are most effective for our client\
+Schedule of completion\
 Measuring of Cost Per Minute, Cost Per Click before the conference date April 15th, 2022.
-Comprehensibility and quality of results
-Cost Per Minute, Cost Per Click
-Does it relate to a higher funnel conversion rate or click through rate to their website
-Security
-Given the credentials to log-in to their Twitter Account
-Legal issues.
+
+### Comprehensibility and quality of results
+Cost Per Minute\
+Cost Per Click\
+Does it relate to a higher funnel conversion rate or click through rate to their website\
+Security\
+Given the credentials to log-in to their Twitter Account\
+Legal issues.\
 Permission obtained to use their data
-Assumptions. Used to verify the validity of results
-Analytics have never been run before on the ad campaigns
+
+### Assumptions.
+Analytics have never been run before on the ad campaigns\
 The insight obtained could be helpful in understanding how traction of the conference
-Constraints
-Availability of resources
-Only working predominantly on 1 social media platform (Twitter)
-No Analytics department at the organization. 
-Technological constraints
+
+### Constraints
+Availability of resources\
+Only working predominantly on 1 social media platform (Twitter)\
+No Analytics department at the organization.\
+Technological constraints\
 Network reach based on follower base and mutual/shared connections
-Risks and Contingencies
-Risks that might cause the project to delay or fail
-Running Campaigns very close to the Conference deadline
+
+### Risks and Contingencies
+Risks that might cause the project to delay or fail\
+Running Campaigns very close to the Conference deadline\
 LinkedIn, Twitter lesser common platforms to run ads as opposed to FB or Instagram
-List all the contingency plans for each risk 
-Ads are being run on platform for CVN already has a significant presence
+
+### List all the contingency plans for each risk 
+Ads are being run on platform for CVN already has a significant presence\
 We are hopeful that by running ads closer to the deadline that will stream in more interest in the event
-Terminology
-Relevant terminology to the project
-Glossary of business terminology
-Increased attendance to the event on April 15th, 2022 
-Increased revenue $ (VC funders)
+
+## Terminology: Relevant terminology to the project
+
+### Glossary of business terminology
+Increased attendance to the event on April 15th, 2022\
+Increased revenue $ (VC funders)\
 Increased visibility of the College Ventures Network
-Glossary of data mining terminology
-CPC - Cost Per Click: a paid advertising term where an advertiser pays a cost to a publisher for every click on an ad. 
-CPM - Cost Per Minute: the total cost a project or goal takes per minute of time
-Conversion Rate:  records the percentage of users who have completed a desired action.
-Click Through Rate: the number of clicks that your ad receives divided by the number of times your ad is shown:
+
+### Glossary of data mining terminology
+CPC - Cost Per Click: a paid advertising term where an advertiser pays a cost to a publisher for every click on an ad.\ 
+CPM - Cost Per Minute: the total cost a project or goal takes per minute of time\
+Conversion Rate:  records the percentage of users who have completed a desired action.\
+Click Through Rate: the number of clicks that your ad receives divided by the number of times your ad is shown:\
  Clicks ÷ Impressions = CTR
-Cost and Benefits
-Costs of the project vs. potential benefits if successful
-Major Cost: Payment for running Ads on Twitter & resources to run the ad analytics
+ 
+## Cost and Benefits
+Costs of the project vs. potential benefits if successful\
+Major Cost: Payment for running Ads on Twitter & resources to run the ad analytics\
 Major Benefit: More visibility, greater promotion of CVN events.
 
 
