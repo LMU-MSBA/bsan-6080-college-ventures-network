@@ -2,7 +2,7 @@
 # Sprint 1 - Business Understanding BSAN 6080
 
 
-Sprint 1 - Business Understanding BSAN 6080
+Sprint 1 - Business Understanding BSAN 6080 <br />
 
 
 
@@ -11,11 +11,11 @@ Sprint 1 - Business Understanding BSAN 6080
 
 
 
-Robert Dryden
-Kyle Guillen
-David Rider
- Mfolozi Dlamini
-Jonathan Ting
+Robert Dryden <br />
+Kyle Guillen <br />
+David Rider <br />
+ Mfolozi Dlamini <br />
+Jonathan Ting <br />
 
 
 
