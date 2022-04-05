@@ -164,23 +164,34 @@ Outputs: Effectiveness analysis, cost-per-attendee numbers
 # Determine dependencies of each stage of project
 Data Understanding Stage:
 Dependencies needed during the data understanding stage will be a list of data sources, methodology on how to acquire the data.  In order for this to happen we will need to have an understanding of how Facebook advertisements work. 
+
 Data Preparation Stage:
 During this stage the primary dependencies are based on how many datasets we utilize for our final product.  We can look into previous campaigns on Facebook that have historically been successful and see which factors can go into making ours successful as well.  We will also need to clean the data during this stage.
+
 Data Modeling Stage:
 Before we continue with modeling we need to assume that there are not any missing values, all class attributes are taken into account.  Essentially we will need to clean the data from the preparation stage before moving forward in our modeling stage. 
+
 Data Evaluation Stage:
 We have a resource based dependency during our data evaluation stage.  In order for us to proceed through this stage there needs to be all our data models for evaluation as well as the original datasets for reference. 
+
 Deployment Stage:
 Before deployment, all previous stages are required.  Everything must be prepared appropriately from the Facebook Campaign, to data modeling tools, as well as what types of variables the team is looking for to showcase significance/success.
 Assess of tools and techniques necessary throughout project
+
 Data Understanding Stage:
 Facebook Advertising interface will be necessary in collecting the initial data.  Potentially could also look into google doc surveys but will most likely be relying on the Facebook Advertising interface. 
+
 Data Preparation Stage:
 Once we collect the data from our Facebook Advertising campaign we will need to use SQL, Excel, and Python to prepare the data for the modeling stage
+
 Data Modeling Stage:
 Tableau will be necessary during the modeling stage for visualizations.  Excel can also be utilized during this stage for more basic graphs.
+
 Data Evaluation Stage:
-For the Data evaluation stage we can use R, Excel, or Python in order to evaluate the data using varying techniques to showcase significance.  Examples could be regression lines, chi square tests, linear regression predictive models.
+
+For the Data evaluation stage we can use R, Excel, or Python in order to evaluate the data using varying techniques to showcase significance.  Examples could be 
+regression lines, chi square tests, linear regression predictive models.
+
 Deployment Stage:
 Proper documentation on how to deploy a future advertising. 
 
