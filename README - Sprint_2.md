@@ -14,7 +14,7 @@ Jonathan Ting <br />
 
 Tuesday April 12, 2022 <br />
 
-### Data Collection Report
+### <ins>Data Collection Report</ins>
 
 &emsp; Our first dataset is from our Facebook ads and shows the amount of clicks our website got per hour. 
 Our goal with this project was to create a Facebook ad and then connect a pixel to our website with our ad in order to determine what kind of traffic our ad was generating. Unfortunately, this proved much more difficult than initially thought because of restrictions on the website we were working with. <br />
@@ -29,7 +29,7 @@ Our goal with this project was to create a Facebook ad and then connect a pixel 
 &emsp; The next interesting piece of information provided by Google Analytics is a tracking metric that they call “events”, this measures what the users do when they first get on the CollegeVentures website. These events include pageview (any user viewing the site), session start (which Google Analytics defines as any initial engagement to the site), first visits which tracks new users to the site, and lastly how many users scrolled on the site and how many clicked something. <br />
 &emsp; These more detailed metrics, especially those relating to engagement such as scrolling and clicking, will provide us with an interesting way to define and measure the overall success of CollegeVentures event campaign. Combining this basic data from Google Analytics with the information gathered from the Facebook platform, we will hopefully have enough to generate a few surface level insights. <br />
 
-### **Data Quality Report**
+###  <ins> Data Quality Report </ins>
 For the quality of the data we ran into several problems.  The first being that when we generated our data reports, there were missing segments of data specifically around Day 0/1. This may have been due to the result of the advertising campaign taking longer to start up and therefore there wasn’t any engagement on the first days.  However, this will affect our end result because we won’t be able to determine engagement on a day to day basis from the days missing. 
 
 Another problem with the data quality is that the data that we have on hand does not allow our team to make enough in-depth analysis and as mentioned previously, we are limited to using only surface level analysis on our project. 
