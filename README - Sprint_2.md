@@ -1,4 +1,4 @@
-# bsan-6080-college-ventures-network
+# BSAN-6080-College-Ventures-Network
 
 
 # Sprint 2 - Data Collection BSAN 6080
@@ -28,6 +28,12 @@ Our goal with this project was to create a Facebook ad and then connect a pixel 
 &emsp; The most basic form of information is simply the number of users on the website. This has slowly been increasing since the tracking began and has now reached 138 as of April 10th. The data becomes more interesting as we breakdown the sources of these users which Google Analytics labels as “first user source”. In this segment of the data we can see that a majority (113 / 138) of our users are coming from a “direct” source, while only a handful are coming from Google, Facebook, and also a CollegeVentures group chat. I did some further research into what was meant by a “direct” source, Google Analytics defines a direct user as website visits that occurred as a result of a user typing your URL directly into their browser or through bookmarks. So it seems like many of the users are either directly typing in the website name, or have it bookmarked. In addition to the website source of the user, Google Analytics also tracks from which country the user comes from. Most of which are United States, however there are a handful from Spain, Australia, and the UK. <br />
 &emsp; The next interesting piece of information provided by Google Analytics is a tracking metric that they call “events”, this measures what the users do when they first get on the CollegeVentures website. These events include pageview (any user viewing the site), session start (which Google Analytics defines as any initial engagement to the site), first visits which tracks new users to the site, and lastly how many users scrolled on the site and how many clicked something. <br />
 &emsp; These more detailed metrics, especially those relating to engagement such as scrolling and clicking, will provide us with an interesting way to define and measure the overall success of CollegeVentures event campaign. Combining this basic data from Google Analytics with the information gathered from the Facebook platform, we will hopefully have enough to generate a few surface level insights. <br />
+
+###  <ins> Data Exploration Report </ins>
+The data exploration report produces the result of running initial queries and visualization of the data we have collected. The main idea is to obtain a general understanding of the data we have collected and prepare our data for further analyses. In this report we will describe our first findings and their impact on the rest of the project. <br />
+
+For the full report on the output as well as our graph visualizations please open the notebook titled **‘eda.ipynb’**. Please note that you will need to input **‘group3_data.xlsx’** as well **‘group3_analytics.xlsx’**. Both files are also included in the repository. <br />
+
 
 ###  <ins> Data Quality Report </ins>
 For the quality of the data we ran into several problems.  The first being that when we generated our data reports, there were missing segments of data specifically around Day 0/1. This may have been due to the result of the advertising campaign taking longer to start up and therefore there wasn’t any engagement on the first days.  However, this will affect our end result because we won’t be able to determine engagement on a day to day basis from the days missing. 
