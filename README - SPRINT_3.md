@@ -28,3 +28,10 @@ It is important to note some limits of our data and clearly data volume is the l
 ### Data Cleaning Report
 &emsp; As there wasn’t a vast amount of data, there weren’t a lot of errors that needed to be cleaned up. The cleaning came in the form of putting all the data into one excel file. This was done through joining our datasets that could be joined together from our Google Analytics. We then renamed these sheets to have one conventional naming standard for them. Following this, the Facebook data was moved to the same file after removing the unnecessary variables previously discussed. 
 
+### Review of Process
+&emsp; To be updated*
+
+### List of Possible Next Steps
+&emsp; To be updated*
+
+
