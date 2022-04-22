@@ -28,6 +28,32 @@ It is important to note some limits of our data and clearly data volume is the l
 ### Data Cleaning Report
 &emsp; As there wasn’t a vast amount of data, there weren’t a lot of errors that needed to be cleaned up. The cleaning came in the form of putting all the data into one excel file. This was done through joining our datasets that could be joined together from our Google Analytics. We then renamed these sheets to have one conventional naming standard for them. Following this, the Facebook data was moved to the same file after removing the unnecessary variables previously discussed. 
 
+
+###
+
+attributes and records
+
+Data Set: daily_data
+Attributes: Day, users, new_users, avg_engangement_time, trending_30_d, trending_7_d, trending_1_d
+Records: 0-8 (9 records)
+
+Data Set: source_data
+Attributes: ‘First user default channel grouping’, ‘New users’, Sessions
+Records: Direct, Referral, Organic Social, Organic Search (4 records)
+
+Data Set: country_data
+Attributes: Country, Users
+Records: United States, United Kingdom, Australia, Spain, India, Canada, Germany, Nigeria, Puerto Rico (9 records)
+Data Set: session_data
+Attributes: ‘Event name’, ‘Event count’
+Records: page_view, session_start, first_visit, user_engagement, scroll, click (6 records)
+
+Data Set: facebook_data
+Attributes: unix_start_time, event, browser_received_count
+Records: 3/31/22 17:00 -- 4/11/22 22:00  (150 records)
+
+
+
 ### Review of Process
 &emsp; To be updated*
 
