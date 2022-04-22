@@ -61,3 +61,9 @@ Records: 3/31/22 17:00 -- 4/11/22 22:00  (150 records)
 &emsp; To be updated*
 
 
+#### Modeling
+
+### Small Data: Simplistic Insights
+Due to our difficulties in collecting data we were left with a very surface level set of information. This dataset does not lend itself to be used in any type of machine learning model or even simple linear regression. It is however better modeled using simple visualizations as well as some summary statistics. Our team has been able to create a number of different graphs and visuals to try to best illustrate our website tracking results. Additionally, in our "CLEANED_DATA_revised_2_%" I have added a basic summary metric to our session data. This percentage metric will serve as a proxy for a "funnel analysis" to give us a sense of what percentage of people who viewed the page completed a certain action. For instance 37% of users who viewed the page scrolled down to read it. This alone can be helpful in giving a sense for the success of the event's website.
+
+In a scenario where we had complete access and design control over our own website, we could have generated a much richer dataset. That would also have given us the opportunity to run tests on our website design. If this test had been run we would have then been able to conduct statistical analyses to search for p-value significant differences in our A/B test design. We also could have generated a full user tracking funnel implemented in SQL.
