@@ -3,7 +3,7 @@
 # BSAN-6080-College-Ventures-Network
 
 
-# Sprint 2 - Data Collection BSAN 6080
+# Sprint 3 - Data Collection BSAN 6080
 
 
 Robert Dryden <br />
