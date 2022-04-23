@@ -81,15 +81,18 @@ Due to our limitation with our data we will describe the ideal Modeling that we 
 Model Technique: Logistic Regression
 Use Case: To calculate or predict the probability of a binary (yes/no) event occurring. In this case to determine if a person is likely to attend the conference or not
 Assumptions: As with any Logistic Regression Model our main assumption would've had to have been:<br/>
-  - Independence of errors/
-  - Linearity in the logit for continuous variables/
-  - Absence of multicollinearity/
+  - Independence of errors
+  - Linearity in the logit for continuous variables
+  - Absence of multicollinearity
   - Lack of strongly influential outliers.
 
 ### Generate Test Design
-
+Test Design:
 
 ### Build Model
+Parameter Setting Model:
 
 
 ### Assessment (Data Mining Success Criteria)
+Model Assessment:
+Revised Parameter Settings:
