@@ -67,3 +67,29 @@ Records: 3/31/22 17:00 -- 4/11/22 22:00  (150 records)
 Due to our difficulties in collecting data we were left with a very surface level set of information. This dataset does not lend itself to be used in any type of machine learning model or even simple linear regression. It is however better modeled using simple visualizations as well as some summary statistics. Our team has been able to create a number of different graphs and visuals to try to best illustrate our website tracking results. Additionally, in our "CLEANED_DATA_revised_2_%" I have added a basic summary metric to our session data. This percentage metric will serve as a proxy for a "funnel analysis" to give us a sense of what percentage of people who viewed the page completed a certain action. For instance 37% of users who viewed the page scrolled down to read it. This alone can be helpful in giving a sense for the success of the event's website.
 
 In a scenario where we had complete access and design control over our own website, we could have generated a much richer dataset. That would also have given us the opportunity to run tests on our website design. If this test had been run we would have then been able to conduct statistical analyses to search for p-value significant differences in our A/B test design. We also could have generated a full user tracking funnel implemented in SQL.
+
+### Models: Data Mining Goals 
+Here is a revision of our Data Mining goals extracted from Sprint 1
+Data Mining Goals are directly related to our main business goal
+Business Goal: Assess the effectiveness of Facebook ads for increasing clickthrough rates and event RSVPs
+Data Mining Goal translation: accurately track and visualize key performance indicators such as clickthrough funnel rate, average engagement, and number of event RSVPs
+Determine Data Mining Success Criteria
+We will be successful with this data mining goal if we are able to produce a user friendly dashboard which can be transferred over to the College Ventures Network social media team
+
+Due to our limitation with our data we will describe the ideal Modeling that we would have completed a Logistic Regression to predict whether a person will attend the conference or not (0 or 1 binary). 
+### Parameter Settings & Model Description
+Model Technique: Logistic Regression
+Use Case: To calculate or predict the probability of a binary (yes/no) event occurring. In this case to determine if a person is likely to attend the conference or not
+Assumptions: As with any Logistic Regression Model our main assumption would've had to have been:<br/>
+  - Independence of errors/
+  - Linearity in the logit for continuous variables/
+  - Absence of multicollinearity/
+  - Lack of strongly influential outliers.
+
+### Generate Test Design
+
+
+### Build Model
+
+
+### Assessment (Data Mining Success Criteria)
