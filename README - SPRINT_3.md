@@ -134,7 +134,7 @@ Perfomance Metrics:
 
 For purposes of running our model we have opted to create a synthetic dataset to showcase how our model would run if had received the data we desired from Google Analytics or Facebook
 
-The model is under the file **'synthetic_data.csv'** in our repository.
+The model is under the ipynb file **'synthetic_LR_model.ipynb'** and the data is  **'synthetic_data.csv'** in this repository.
 
 ### Synthetic Model Performance Metrics
 - Accuracy\
@@ -150,7 +150,7 @@ Recall: 0.7142857142857143
 array([[ 6,  5],
        [ 4, 10]])
        
-- ROC Curve (included in the ipynb notebook)\
+- ROC Curve (included in the ipynb notebook)
 
 - AUC\
 Logistic Regression 0.66
