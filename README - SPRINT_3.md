@@ -88,6 +88,7 @@ Assumptions: As with any Logistic Regression Model our main assumption would've 
 
 ### Generate Test Design
 Test Design: The Logistic Regression would be implemented in python using individual web traffic data to our ad.
+
 **Step 1:** Import the packages
 
 **Step 2:** Read in the dataset. This would ideally be a single data row with the following features: age,start_time, end_time, page_view, session_start, first_visit, user_engagement, scroll, click, source, country, attend_conf
@@ -136,20 +137,20 @@ For purposes of running our model we have opted to create a synthetic dataset to
 The model is under the file **'synthetic_data.csv'** in our repository.
 
 ### Synthetic Model Performance Metrics
-- Accuracy/
+- Accuracy\
 Accuracy: 0.64
 
-- Precision/
+- Precision\
 Precision: 0.6666666666666666
 
-- Recall/
+- Recall\
 Recall: 0.7142857142857143
 
-- Confusion Matrix/
+- Confusion Matrix\
 array([[ 6,  5],
        [ 4, 10]])
        
-- ROC Curve (included in the ipynb notebook)/
+- ROC Curve (included in the ipynb notebook)\
 
-- AUC/
+- AUC\
 Logistic Regression 0.66
