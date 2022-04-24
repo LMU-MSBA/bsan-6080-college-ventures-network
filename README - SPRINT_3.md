@@ -87,12 +87,69 @@ Assumptions: As with any Logistic Regression Model our main assumption would've 
   - Lack of strongly influential outliers.
 
 ### Generate Test Design
-Test Design:
+Test Design: The Logistic Regression would be implemented in python using individual web traffic data to our ad.
+Step 1: Import the packages
+
+Step 2: Read in the dataset. This would ideally be a single data row with the following features: age,start_time, end_time, page_view, session_start, first_visit, user_engagement, scroll, click, source, country, attend_conf
+Data Dictionary Definitions:
+
+age: numerical age of registrant
+start_time: unix time user started the session
+end_time: unix time user ended session
+page_view: binary 1 or 0 (yes or no)
+session_start: binary 1 or 0 (yes or no)
+first_visit: binary 1 or 0 (yes or no)
+user_engagement: binary 1 or 0 (yes or no)
+scroll: binary 1 or 0 (yes or no)
+click: binary 1 or 0 (yes or no)
+country: numerical 0-195 countries
+attend_conf: target variable binary 1 or 0 (yes or no)
+
+Step 3: Exploratory Data Analysis
+
 
 ### Build Model
+Step 4: Model building
 Parameter Setting Model:
+feature_cols = ['age','start_time', 'end_time', 'page_view', 'session_start', 'first_visit', 'user_engagement', 'scroll', 'click', 'source', 'country']
+X= data[feature_cols]
+y = data['attend_conf']
+
+
 
 
 ### Assessment (Data Mining Success Criteria)
-Model Assessment:
-Revised Parameter Settings:
+Step 5 Model Assessment
+
+Revised Parameter Settings: Display the feature importance in order of decreasing influence on attending the conference or not
+
+Perfomance Metrics:
+- Accuracy
+- Precision
+- Recall
+- Confusion Matrix
+- ROC Curve
+- AUC
+
+For purposes of running our model we have opted to create a synthetic dataset to showcase how our model would run if had received the data we desired from Google Analytics or Facebook
+
+The model is under the file **'synthetic_data.csv'** in our repository.
+
+### Synthetic Model Performance Metrics
+- Accuracy
+Accuracy: 0.64
+
+- Precision
+Precision: 0.6666666666666666
+
+- Recall
+Recall: 0.7142857142857143
+
+- Confusion Matrix
+array([[ 6,  5],
+       [ 4, 10]])
+       
+- ROC Curve (included in the ipynb notebook)
+
+- AUC
+Logistic Regression 0.66
