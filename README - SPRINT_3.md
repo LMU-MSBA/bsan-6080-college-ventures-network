@@ -61,7 +61,10 @@ Records: 3/31/22 17:00 -- 4/11/22 22:00  (150 records)
 
 
 ### List of Possible Next Steps
-&emsp; To be updated*
+&emsp; Moving forward our team can only make very surface level insights with the data gathered.  Because of this, a step that can be considered is the idea of running the campaign again with different methodologies of advertising this event.  Either with different graphics, different platform, or more target marketing towards users that will directly benefit from the event.  
+
+&emsp; However, due to time constraints our team will move ahead with this data and further analyze and at least provide quality surface level analysis.  
+
 
 
 ## Modeling
