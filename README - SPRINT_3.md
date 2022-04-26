@@ -55,7 +55,10 @@ Records: 3/31/22 17:00 -- 4/11/22 22:00  (150 records)
 
 
 ### Review of Process
-&emsp; To be updated*
+&emsp; In this document we covered our dataset description, the rationale for our data choices, the data cleaning processes, as well as our attributes and records.  To quickly summarize, we faced many obstacles going into this project that were surrounded by the lack of data and therefore leading to lack of insights to make.  Unfortunately, because of these core problems, a lot of our insights ended up being more on they hypothetical side.   In regard to the data mining quality assurance, because there was not a lot of data to analyze, we were at least able to ensure that we paid careful attention to cleaning and organizing the data effectively for readers to understand.  
+
+&emsp; If we were to repeat this process we highly encourage running the campaign advertisements for longer or create new interactive/enticing advertisements that will generate more clicks to collect more data. 
+
 
 ### List of Possible Next Steps
 &emsp; To be updated*
@@ -155,6 +158,5 @@ array([[ 6,  5],
 - AUC\
 Logistic Regression 0.66
 
-### Review Doc
 
 
