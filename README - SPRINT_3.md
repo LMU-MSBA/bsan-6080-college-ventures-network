@@ -3,7 +3,7 @@
 # BSAN-6080-College-Ventures-Network
 
 
-# Sprint 3 - Data Collection BSAN 6080
+# Sprint 3 - Data Preparation, Modeling, Evaluation BSAN 6080
 
 
 Robert Dryden <br />
@@ -13,7 +13,7 @@ Mfolozi Dlamini <br />
 Jonathan Ting <br />
 
 
-Tuesday April 12, 2022 <br />
+Tuesday April 26, 2022 <br />
 
 ### Dataset Description
 &emsp; Our data comprises of two main sources: our Facebook events data and our Google Analytics data. Our Facebook data is much less informative as it simply shows the amount of sessions our website got per hour. There are other key statistics that facebook has highlighted such as number of link clicks our ad got and the amount of impressions it got but it doesn’t show it as a time-series dataset. 
